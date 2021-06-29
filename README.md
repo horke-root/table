@@ -42,6 +42,6 @@ table -i Test
 ```
 ```[WARNING] dont use [package].zip```
 
-# If you seen error:
+# If you find error:
 
 Plese send message and log, and if you can re-write code and send this to me.
