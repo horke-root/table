@@ -1,0 +1,27 @@
+For a creating package you a choose a default Test package from dir Temp
+
+In dir Temp/Test, you a see file table.json format as[is JSON]:
+    {
+        "src-dir": "src", # is a main src dir (write without slash["/"])
+        "name": "Test" # name of package
+    }
+
+In dir Temp/Test/src, you a see three file one is table format as python module
+This file created for log and setting up venv and pip install package
+
+Type for this package is realtime;
+
+We have two types applications for Table : {
+    RealTime, # for a start file {like this: ($table -i Test # starting a app)}
+    Setup # for a setup app
+}
+
+If package real-time you a see start a package fast from {Package}.zip file
+
+If setup package file builded and copy to Desktop or too more directories or a in PATH
+
+FILE {setup.py} : main file for setup
+
+You, can import a app and start. But, So... you should a use venv
+
+FILE {app.py} : main app
