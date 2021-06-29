@@ -7,14 +7,17 @@ Command-line app for cross-platform installing and starting apps
 Install tar.exe form MinGW and add to path or to %AppData%/Table/
 ```
 pip install -r r.txt
+python setup.py
 ```
 ### Linux
 ```
 python3 -m pip install -r r.txt
+sudo python setup.py
 ```
 ### Mac OS
 ```
 python3 -m pip install -r r.txt
+sudo python setup.py
 ```
 ## Using
 
