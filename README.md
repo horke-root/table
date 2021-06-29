@@ -7,7 +7,6 @@ Command-line app for cross-platform installing and starting apps
 Install tar.exe form MinGW and add to path or to %AppData%/Table/
 ```
 pip install -r r.txt
-
 ```
 ### Linux
 ```
