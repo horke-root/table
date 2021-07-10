@@ -4,7 +4,7 @@ Command-line app for cross-platform installing and starting apps
 
 ## Configuring
 ### Windows
-Install tar.exe form MinGW and add to path or to %AppData%/Table/
+Install tar.exe from MinGW and add to path or to %AppData%/Table/
 ```
 pip install -r r.txt
 python setup.py
